@@ -243,8 +243,8 @@ Ready to transform your workflows with intelligent automation? I specialize in:
 - **Custom AI agent development**
 - **Workflow automation solutions**
 - **Product strategy for AI implementations**
-- **User-centric AI tool design**
+- **User-centric AI workflow design**
 
-[📧 Email me](mailto:nithya@example.com) or [💼 Connect on LinkedIn](https://www.linkedin.com/in/nithya95)
+[📧 Email me](mailto:alwaysnithya95@gmail.com) or [💼 Connect on LinkedIn](https://www.linkedin.com/in/nithya95)
 
 *Let's build AI solutions that actually work for your business.*
